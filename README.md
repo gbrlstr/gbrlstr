@@ -4,14 +4,14 @@
 
 
 <div align="center">  
-  <img width="40%" height="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielcstr&theme=github_dark" alt="Gabriel Carlos Ferreira github stats" /> 
-  <img width="40%" height="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielCSTR&theme=github_dark" />
+  <img width="40%" height="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gbrlstr&theme=github_dark" alt="Gabriel Carlos Ferreira github stats" /> 
+  <img width="40%" height="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gbrlstr&theme=github_dark" />
 </div>
 <p align="center">
-  <img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielCSTR&theme=github_dark" />
+  <img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gbrlstr&theme=github_dark" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GabrielCSTR&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gbrlstr&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center"> 
@@ -53,7 +53,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{GabrielCSTR}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{gbrlstr}/count.svg" /></p> 
 <br>
 </div>
 
