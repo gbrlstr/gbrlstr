@@ -10,15 +10,24 @@
 <p align="center">
   <img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gbrlstr&theme=github_dark" />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gbrlstr&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
 <div align="center"> 
   <a href="https://www.youtube.com/channel/UCxJWCNsv6iNLr41cwAFW04Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/gbrl.str/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:g4brielcarlos@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-carlos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  ![Visitors Count](https://komarev.com/ghpvc/?username=gbrldev)
+  
+</div>
+
+
+<p align="center">
+  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=gbrlstr&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gbrlstr&theme=dark&hide_border=true&ring=00CFE8&fire=00CFE8&currStreakLabel=00CFE8" />
 </div>
   
 ### Main skills:
@@ -50,12 +59,6 @@
 ### Studying in this moment:
 ![TemporalIO](https://img.shields.io/badge/-TemporalIO-0D1117?style=for-the-badge&logo=temporal&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![BigQuery](https://img.shields.io/badge/-BigQuery-0D1117?style=for-the-badge&logo=big%20query&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{gbrlstr}/count.svg" /></p> 
-<br>
-</div>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
