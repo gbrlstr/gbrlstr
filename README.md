@@ -31,13 +31,14 @@
 </div>
   
 ### Main skills:
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker)&nbsp; 
+![Nest.js](https://img.shields.io/badge/-Nest.js-0D1117?style=for-the-badge&logo=nestjs)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Nest.js](https://img.shields.io/badge/-Nest.js-0D1117?style=for-the-badge&logo=nestjs)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp)&nbsp; 
 ![PHP](https://img.shields.io/badge/-Php-0D1117?style=for-the-badge&logo=php)&nbsp; 
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker)&nbsp; 
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp)&nbsp; 
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
@@ -59,8 +60,6 @@
 ### Studying in this moment:
 ![TemporalIO](https://img.shields.io/badge/-TemporalIO-0D1117?style=for-the-badge&logo=temporal&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![BigQuery](https://img.shields.io/badge/-BigQuery-0D1117?style=for-the-badge&logo=big%20query&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6f5b8a&height=120&section=footer"/>
 
