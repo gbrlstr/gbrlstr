@@ -1,65 +1,102 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6f5b8a&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6f5b8a&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Carlos+Ferreira;I+from+Brasil,+CE;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-
-<div align="center">  
-  <img width="40%" height="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gbrlstr&theme=github_dark" alt="Gabriel Carlos Ferreira github stats" /> 
-  <img width="40%" height="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gbrlstr&theme=github_dark" />
-</div>
-<p align="center">
-  <img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gbrlstr&theme=github_dark" />
-</p>
-
-<div align="center"> 
-  <a href="https://www.youtube.com/channel/UCxJWCNsv6iNLr41cwAFW04Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/gbrl.str/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:g4brielcarlos@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-carlos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ![Visitors Count](https://komarev.com/ghpvc/?username=gbrldev)
-  
-</div>
-
+<h1 align="center">Gabriel Carlos</h1>
 
 <p align="center">
-  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=gbrlstr&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  Full-stack engineer · TypeScript, Vue &amp; NestJS<br>
+  I build developer tools, real-time apps and open-source libraries.<br>
+  Fortaleza, Brazil 🇧🇷
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gbrlstr&theme=dark&hide_border=true&ring=00CFE8&fire=00CFE8&currStreakLabel=00CFE8" />
+  <a href="https://gbrldev.com" target="_blank"><img src="https://img.shields.io/badge/-Website-6f5b8a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/gabriel-carlos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/gbrl_str" target="_blank"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.youtube.com/channel/UCxJWCNsv6iNLr41cwAFW04Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.instagram.com/gbrl.str/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:gabriel.developed@gmail.com"><img src="https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
 </div>
-  
-### Main skills:
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gbrlstr&style=flat-square&color=6f5b8a" alt="Profile views" />
+</p>
+
+---
+
+## GitHub in numbers
+
+<div align="center">
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gbrlstr&theme=github_dark" alt="GitHub stats" />
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gbrlstr&theme=github_dark" alt="Repos per language" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gbrlstr&theme=github_dark" alt="Profile details" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gbrlstr&theme=dark&hide_border=true&ring=6f5b8a&fire=6f5b8a&currStreakLabel=6f5b8a" alt="Contribution streak" />
+</div>
+
+<div align="center">
+  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=gbrlstr&theme=dracula&row=1&column=6&margin-w=10&no-bg=true" alt="GitHub trophies" />
+</div>
+
+---
+
+## Featured open-source projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**vue-globe**](https://github.com/gbrlstr/vue-globe) | Interactive WebGL globe for Vue 3: countries, markers, animated arcs and choropleth maps. [Live examples](https://gbrlstr.github.io/vue-globe/examples/) | Vue 3 · three.js · TypeScript |
+| [**kick-flow**](https://github.com/gbrlstr/kick-flow) | TypeScript client for the Kick.com API with automatic OAuth 2.1 token management. | TypeScript · Node.js |
+| [**dota-stats-steam**](https://github.com/gbrlstr/dota-stats-steam) | Shows Dota 2 stats on Steam profiles using the Stratz API. | JavaScript · Stratz API |
+| [**clockify-timer**](https://github.com/gbrlstr/clockify-timer) | VS Code extension to track time with Clockify without leaving the editor. | TypeScript · VS Code API |
+| [**steel-fight-lab**](https://github.com/gbrlstr/steel-fight-lab-game) | Multiplayer fighting game with client-side rollback netcode ([server](https://github.com/gbrlstr/steel-fight-lab-server)). | Nuxt · WebSocket · NestJS |
+| [**kick-token-generator**](https://github.com/gbrlstr/kick-token-generator) | OAuth token generator for the Kick API. [Live](https://kick-token-generator.vercel.app) | NestJS · HTML |
+
+---
+
+### Main skills
+
 ![Nest.js](https://img.shields.io/badge/-Nest.js-0D1117?style=for-the-badge&logo=nestjs)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![PHP](https://img.shields.io/badge/-Php-0D1117?style=for-the-badge&logo=php)&nbsp; 
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker)&nbsp; 
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp)&nbsp; 
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=vuedotjs)&nbsp;
+![Nuxt](https://img.shields.io/badge/-Nuxt-0D1117?style=for-the-badge&logo=nuxtdotjs)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=nextdotjs)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github)&nbsp;
+![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp)
 
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+### Tools
 
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github)&nbsp;
 ![Gitlab](https://img.shields.io/badge/-GitLab-0D1117?style=for-the-badge&logo=gitlab)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker)&nbsp; 
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-0D1117?style=for-the-badge&logo=ubuntu)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-Microsoft%20Office-0D1117?style=for-the-badge&logo=microsoft-office)
 
-### Other Knowledge:
-![Go](https://img.shields.io/badge/-go-0D1117?style=for-the-badge&logo=go)&nbsp;
-![MongoDB](https://img.shields.io/badge/-mongodb-0D1117?style=for-the-badge&logo=mongodb)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Tailwindcss](https://img.shields.io/badge/-tailwindcss-0D1117?style=for-the-badge&logo=tailwindcss)&nbsp;
+### Other knowledge
+
+![Go](https://img.shields.io/badge/-Go-0D1117?style=for-the-badge&logo=go)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql)&nbsp;
+![Tailwindcss](https://img.shields.io/badge/-Tailwind%20CSS-0D1117?style=for-the-badge&logo=tailwindcss)&nbsp;
 ![MicrosoftSQLServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-0D1117?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-### Studying in this moment:
-![TemporalIO](https://img.shields.io/badge/-TemporalIO-0D1117?style=for-the-badge&logo=temporal&labelColor=0D1117&textColor=0D1117)&nbsp;
-![BigQuery](https://img.shields.io/badge/-BigQuery-0D1117?style=for-the-badge&logo=big%20query&labelColor=0D1117&textColor=0D1117)&nbsp;
+### Studying right now
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6f5b8a&height=120&section=footer"/>
+![TemporalIO](https://img.shields.io/badge/-Temporal-0D1117?style=for-the-badge&logo=temporal)&nbsp;
+![BigQuery](https://img.shields.io/badge/-BigQuery-0D1117?style=for-the-badge&logo=google-bigquery)
 
+---
+
+<details>
+<summary>🇧🇷 Resumo em português</summary>
+
+Engenheiro full-stack em Fortaleza, trabalhando com TypeScript, Vue e NestJS. Crio bibliotecas open source, ferramentas para desenvolvedores e aplicações em tempo real. Issues e PRs são bem-vindos nos projetos em destaque.
+
+</details>
